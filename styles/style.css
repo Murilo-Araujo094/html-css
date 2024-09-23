@@ -39,7 +39,7 @@ body{
 .cabecalho__menu__link{
     font-family: var(--fonte-secundaria);
     font-weight: 600;
-    font-size: 24px;
+    font-size: 1.5rem;
     color: var(--cor-tercaria);
     text-decoration: none;
 }   
@@ -64,7 +64,7 @@ body{
 
 
 .apresentacao__conteudo__titulo{
-    font-size: 36px;
+    font-size: 2.25rem;
     font-family: var(--fonte-primaria);
 }
 
@@ -73,7 +73,7 @@ body{
 }
 
 .apresentacao__conteudo__textp{
-    font-size: 24px;
+    font-size: 1.5rem;
 }
 .apresentacao__link{
     display: flex;
@@ -86,7 +86,7 @@ body{
 .apresentacao__links__subtitulo{
     font-family: var(--fonte-primaria);
     font-weight: 400;
-    font-size: 24px;
+    font-size: 1.5rem;
 }
 
 
@@ -99,7 +99,7 @@ body{
     width: 378px;
     text-align: center;
     border-radius: 8px;
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 600;
     padding: 21.5px 0;
     text-decoration: none;
@@ -117,7 +117,7 @@ body{
     background-color: var(--cor-tercaria);
     text-align: center;
     font-family: var(--fonte-secundaria);
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 400;
  }
 
