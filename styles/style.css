@@ -54,7 +54,7 @@ body{
 }
 
 .apresentacao__conteudo{
-    width: 615px;
+    width: 50%;
     font-family: var(--fonte-secundaria);
     display: flex;
     flex-direction: column;
@@ -91,12 +91,12 @@ body{
 
 
 
-.apresentacao__link__link{
+.apresentacao__link__navegacao{
     display: flex;
     justify-content: center;
     gap: 16px;
     border: 2px solid var(--cor-tercaria);
-    width: 378px;
+    width: 50%;
     text-align: center;
     border-radius: 8px;
     font-size: 1.5rem;
@@ -107,10 +107,17 @@ body{
     font-family: var(--fonte-secundaria);
 
 }  
+
+
  .apresentacao__link__link:hover{
     background-color: var(--cor-efeito);
     padding: 3%
  }
+
+.aprsentacao__imagem{
+    width: 40%;
+}
+
  .rodape{
     padding: 24px;
     color: var(--cor-primaria);
